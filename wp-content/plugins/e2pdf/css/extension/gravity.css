@@ -1,0 +1,38 @@
+.e2pdf-vm-content .gform_wrapper {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.e2pdf-vm-content .gsurvey-likert {
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+.e2pdf-vm-content .gsurvey-likert {
+    width: 100%;
+}
+
+.e2pdf-vm-content .gsurvey-likert-choice,
+.e2pdf-vm-content .gsurvey-likert-choice-label {
+    text-align: center;
+}
+
+.e2pdf-vm-content .gsurvey-rating label {
+    display: inline-block;
+    width: auto;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+.e2pdf-vm-content .gform_legacy_markup_wrapper .top_label div.ginput_container {
+    margin-top: 0;
+}
+
+.e2pdf-vm-content .gform_legacy_markup_wrapper .gfield_radio li label,
+.e2pdf-vm-content .gform_legacy_markup_wrapper .gfield_checkbox li label {
+    margin: 6px 0 0 4px;
+}
+
+.e2pdf-vm-content .gform_legacy_markup_wrapper .gfield_list_group {
+    display: table-row;
+}
