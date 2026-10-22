@@ -1,0 +1,107 @@
+{
+    "success": true,
+    "data": {
+        "html": "<div class=\"forminator-ui forminator-custom-form forminator-custom-form-2706 forminator-design--flat  forminator_ajax\" data-forminator-render=\"0\" data-form=\"forminator-module-2706\" data-uid=\"6ada5c1bf14a4\"><br\/><\/div><form\n\t\t\t\tid=\"forminator-module-2706\"\n\t\t\t\tclass=\"forminator-ui forminator-custom-form forminator-custom-form-2706 forminator-design--flat  forminator_ajax\"\n\t\t\t\tmethod=\"post\"\n\t\t\t\tdata-forminator-render=\"0\"\n\t\t\t\tdata-form-id=\"2706\"\n\t\t\t\tenctype=\"multipart\/form-data\" data-color-option=\"default\" data-design=\"flat\" data-grid=\"open\"\n\t\t\t\tdata-uid=\"6ada5c1bf14a4\" action=\"\"\n\t\t\t><div role=\"alert\" aria-live=\"polite\" class=\"forminator-response-message forminator-error\" aria-hidden=\"true\"><\/div><div class=\"forminator-row\"><div id=\"name-1\" class=\"forminator-field-name forminator-col forminator-col-12\"><div class=\"forminator-field\"><label for=\"forminator-field-name-1_6ada5c1bf14a4\" id=\"forminator-field-name-1_6ada5c1bf14a4-label\" class=\"forminator-label\">Nombre <span class=\"forminator-required\">*<\/span><\/label><input type=\"text\" name=\"name-1\" value=\"\" placeholder=\"\" id=\"forminator-field-name-1_6ada5c1bf14a4\" class=\"forminator-input forminator-name--field\" aria-required=\"true\" autocomplete=\"name\" \/><\/div><\/div><\/div><div class=\"forminator-row\"><div id=\"phone-1\" class=\"forminator-field-phone forminator-col forminator-col-6\"><div class=\"forminator-field\"><label for=\"forminator-field-phone-1_6ada5c1bf14a4\" id=\"forminator-field-phone-1_6ada5c1bf14a4-label\" class=\"forminator-label\">N\u00famero de tel\u00e9fono <span class=\"forminator-required\">*<\/span><\/label><input type=\"text\" name=\"phone-1\" value=\"\" placeholder=\"\" id=\"forminator-field-phone-1_6ada5c1bf14a4\" class=\"forminator-input forminator-field--phone\" data-required=\"1\" aria-required=\"true\" autocomplete=\"off\" data-national_mode=\"disabled\" data-country=\"es\" data-validation=\"international\" aria-describedby=\"forminator-field-phone-1_6ada5c1bf14a4-description\" \/><span id=\"forminator-field-phone-1_6ada5c1bf14a4-description\" class=\"forminator-description\">Solo para contactar<\/span><\/div><\/div><div id=\"email-1\" class=\"forminator-field-email forminator-col forminator-col-6\"><div class=\"forminator-field\"><label for=\"forminator-field-email-1_6ada5c1bf14a4\" id=\"forminator-field-email-1_6ada5c1bf14a4-label\" class=\"forminator-label\">Correo electr\u00f3nico <span class=\"forminator-required\">*<\/span><\/label><input type=\"email\" name=\"email-1\" value=\"\" placeholder=\"\" id=\"forminator-field-email-1_6ada5c1bf14a4\" class=\"forminator-input forminator-email--field\" data-required=\"1\" aria-required=\"true\" autocomplete=\"email\" aria-describedby=\"forminator-field-email-1_6ada5c1bf14a4-description\" \/><span id=\"forminator-field-email-1_6ada5c1bf14a4-description\" class=\"forminator-description\">Solo para contactar<\/span><\/div><\/div><\/div><div class=\"forminator-row\"><div id=\"address-1\" class=\"forminator-field-address forminator-col forminator-col-12\"><div class=\"forminator-row\" data-multiple=\"true\"><div id=\"address-1-city\" class=\"forminator-col forminator-col-6\"><div class=\"forminator-field\"><label for=\"forminator-field-address-1-city_6ada5c1bf14a4\" id=\"forminator-field-address-1-city_6ada5c1bf14a4-label\" class=\"forminator-label\">Municipio <span class=\"forminator-required\">*<\/span><\/label><input type=\"text\" name=\"address-1-city\" placeholder=\"E.g. Malaga\" id=\"forminator-field-address-1-city_6ada5c1bf14a4\" class=\"forminator-input\" data-required=\"1\" aria-required=\"true\" autocomplete=\"address-level2\" value=\"\" \/><\/div><\/div><div id=\"address-1-state\" class=\"forminator-col forminator-col-6\"><div class=\"forminator-field\"><label for=\"forminator-field-address-1-state_6ada5c1bf14a4\" id=\"forminator-field-address-1-state_6ada5c1bf14a4-label\" class=\"forminator-label\">Provincia <span class=\"forminator-required\">*<\/span><\/label><input type=\"text\" name=\"address-1-state\" placeholder=\"\" id=\"forminator-field-address-1-state_6ada5c1bf14a4\" class=\"forminator-input\" data-required=\"1\" aria-required=\"true\" autocomplete=\"address-level1\" value=\"\" \/><\/div><\/div><\/div><div class=\"forminator-row\" data-multiple=\"false\"><div id=\"address-1-zip\" class=\"forminator-col forminator-col-12\"><div class=\"forminator-field\"><label for=\"forminator-field-address-1-zip_6ada5c1bf14a4\" id=\"forminator-field-address-1-zip_6ada5c1bf14a4-label\" class=\"forminator-label\">C\u00f3digo postal<\/label><input type=\"text\" name=\"address-1-zip\" placeholder=\"E.g. 2000\" id=\"forminator-field-address-1-zip_6ada5c1bf14a4\" class=\"forminator-input\" autocomplete=\"postal-code\" value=\"\" \/><\/div><\/div><\/div><\/div><\/div><div class=\"forminator-row\"><div id=\"textarea-1\" class=\"forminator-field-textarea forminator-col forminator-col-12\"><div class=\"forminator-field\"><label for=\"forminator-field-textarea-1_6ada5c1bf14a4\" id=\"forminator-field-textarea-1_6ada5c1bf14a4-label\" class=\"forminator-label\">Texto <span class=\"forminator-required\">*<\/span><\/label><textarea name=\"textarea-1\" placeholder=\"Por favor, describe en qu\u00e9 podemos ayudarte\" id=\"forminator-field-textarea-1_6ada5c1bf14a4\" class=\"forminator-textarea\" style=\"--forminator-textarea-min-height:140px;\" ><\/textarea><\/div><\/div><\/div><div class=\"forminator-row\"><div id=\"upload-1\" class=\"forminator-field-upload forminator-col forminator-col-12\"><div class=\"forminator-field\"><label for=\"forminator-field-upload-1_6ada5c1bf14a4\" id=\"forminator-field-upload-1_6ada5c1bf14a4-label\" class=\"forminator-label\">Subir archivo<\/label><div class=\"forminator-file-upload\" data-element=\"upload-1_6ada5c1bf14a4\" aria-describedby=\"forminator-field-upload-1_6ada5c1bf14a4-description\"><input type=\"file\" name=\"upload-1\" id=\"forminator-field-upload-1_6ada5c1bf14a4\" class=\"forminator-input-file\" accept=\".jpg,.jpeg,.jpe,.gif,.png,.bmp,.tiff,.tif,.webp,.ico,.heic,.asf,.asx,.wmv,.wmx,.wm,.avi,.divx,.flv,.mov,.qt,.mpeg,.mpg,.mpe,.mp4,.m4v,.ogv,.webm,.mkv,.3gp,.3gpp,.3g2,.3gp2,.txt,.asc,.c,.cc,.h,.srt,.csv,.tsv,.ics,.rtx,.vtt,.mp3,.m4a,.m4b,.aac,.ra,.ram,.wav,.ogg,.oga,.flac,.mid,.midi,.wma,.wax,.mka,.rtf,.pdf,.class,.tar,.zip,.gz,.gzip,.7z,.psd,.xcf,.doc,.pot,.pps,.ppt,.wri,.xla,.xls,.xlt,.xlw,.mdb,.mpp,.docx,.docm,.dotx,.dotm,.xlsx,.xlsm,.xlsb,.xltx,.xltm,.xlam,.pptx,.pptm,.ppsx,.ppsm,.potx,.potm,.ppam,.sldx,.sldm,.onetoc,.onetoc2,.onetmp,.onepkg,.oxps,.xps,.odt,.odp,.ods,.odg,.odc,.odb,.odf,.wp,.wpd,.key,.numbers,.pages,.xls,.svgz,.json\" tabindex=\"-1\"><button id=\"forminator-field-upload-1_6ada5c1bf14a4_button\" class=\"forminator-button forminator-button-upload\" data-id=\"forminator-field-upload-1_6ada5c1bf14a4\" data-no-translation=\"\" data-trp-gettext=\"\">Elegir archivo<\/button><span data-empty-text=\"Ning\u00fan archivo seleccionado\" data-no-translation=\"\" data-trp-gettext=\"\" data-no-translation-data-empty-text=\"\">Ning\u00fan archivo seleccionado<\/span><button class=\"forminator-button-delete\" style=\"display: none;\"><i class=\"forminator-icon-close\" aria-hidden=\"true\"><\/i><span class=\"forminator-screen-reader-only\" data-no-translation=\"\" data-trp-gettext=\"\">Eliminar el archivo subido<\/span><\/button><\/div><span id=\"forminator-field-upload-1_6ada5c1bf14a4-description\" class=\"forminator-description\">Por favor, use Whatsapp para enviar m\u00e1s fotos si es necesario<\/span><\/div><\/div><\/div><input type=\"hidden\" name=\"referer_url\" value=\"\" \/><div class=\"forminator-row forminator-row-last\"><div class=\"forminator-col\"><div class=\"forminator-field\"><button class=\"forminator-button forminator-button-submit\">Enviar mensaje<\/button><\/div><\/div><\/div><input type=\"hidden\" id=\"forminator_nonce\" name=\"forminator_nonce\" value=\"dcf28bfa4b\" \/><input type=\"hidden\" name=\"_wp_http_referer\" value=\"\/wp-admin\/admin-ajax.php\" \/><input type=\"hidden\" name=\"form_id\" value=\"2706\"><input type=\"hidden\" name=\"page_id\" value=\"16\"><input type=\"hidden\" name=\"form_type\" value=\"default\"><input type=\"hidden\" name=\"current_url\" value=\"\/es\/contact\/\"><input type=\"hidden\" name=\"render_id\" value=\"0\"><input type=\"hidden\" name=\"action\" value=\"forminator_submit_form_custom-forms\"><label for=\"input_7\" class=\"forminator-hidden\" aria-hidden=\"true\">Por favor, no rellenes este campo. <input id=\"input_7\" type=\"text\" name=\"input_7\" value=\"\" autocomplete=\"off\"><\/label><input type=\"hidden\" name=\"trp-form-language\" value=\"es\"\/><\/form>",
+        "style": "",
+        "styles": {
+            "intlTelInput-forminator-css": {
+                "src": "\/wp-content\/plugins\/forminator\/assets\/css\/intlTelInput.min.css?ver=4.0.3"
+            }
+        },
+        "scripts": {
+            "forminator-intlTelInput": {
+                "src": "\/wp-content\/plugins\/forminator\/assets\/js\/library\/intlTelInput.min.js?ver=4.0.3",
+                "on": "$",
+                "load": "intlTelInput"
+            }
+        },
+        "script": "",
+        "callback": "",
+        "is_ajax_load": true,
+        "options": {
+            "form_type": "custom-form",
+            "inline_validation": true,
+            "print_value": false,
+            "rules": "\"name-1\": \"required\",\"name-1\": \"trim\",\"phone-1\": {\"required\": true,\"trim\": true,\"forminatorPhoneInternational\": true,},\"email-1\": {\n\"required\": true,\"email\": false,},\n\"address-1-city\": \"trim\",\"address-1-city\": \"required\",\"address-1-state\": \"trim\",\"address-1-state\": \"required\",\"textarea-1\": {\"required\": true,},\"upload-1\": {\n\"extension\": \"jpg|jpeg|jpe|gif|png|bmp|tiff|tif|webp|ico|heic|asf|asx|wmv|wmx|wm|avi|divx|flv|mov|qt|mpeg|mpg|mpe|mp4|m4v|ogv|webm|mkv|3gp|3gpp|3g2|3gp2|txt|asc|c|cc|h|srt|csv|tsv|ics|rtx|vtt|mp3|m4a|m4b|aac|ra|ram|wav|ogg|oga|flac|mid|midi|wma|wax|mka|rtf|pdf|class|tar|zip|gz|gzip|7z|psd|xcf|doc|pot|pps|ppt|wri|xla|xls|xlt|xlw|mdb|mpp|docx|docm|dotx|dotm|xlsx|xlsm|xlsb|xltx|xltm|xlam|pptx|pptm|ppsx|ppsm|potx|potm|ppam|sldx|sldm|onetoc|onetoc2|onetmp|onepkg|oxps|xps|odt|odp|ods|odg|odc|odb|odf|wp|wpd|key|numbers|pages|xls|svgz|json|\",},\n",
+            "messages": "\"name-1\": \"Please, enter your name\",\n\"phone-1\": {\n\"required\": \"Please, enter your phone number\",\n\"trim\": \"Please, enter your phone number\",\n\"forminatorPhoneInternational\": \"Enter your number with the country code, please!\",\n\"phone\": \"Enter your number with the country code, please!\",\n},\n\"email-1\": {\n\"required\": \"Please, enter your email\",\n},\n\"address-1-city\": \"This field is required. Please enter the city.\",\n\"address-1-state\": \"This field is required. Please enter the state.\",\n\"textarea-1\": {\"required\": \"Please, enter your question\",\n},\"upload-1\": {\n\"extension\": \"Error al guardar el formulario. La extensi\u00f3n de archivo subida no est\u00e1 permitida.\",\n},",
+            "conditions": {
+                "fields": [],
+                "relations": {
+                    "name-1": [],
+                    "phone-1": [],
+                    "email-1": [],
+                    "address-1": [],
+                    "textarea-1": [],
+                    "upload-1": [],
+                    "submit": []
+                }
+            },
+            "calendar": "{\n    \"days\": [\n        \"Do\",\n        \"Lu\",\n        \"Ma\",\n        \"Mi\",\n        \"Ju\",\n        \"Vi\",\n        \"Sa\"\n    ],\n    \"months\": [\n        \"Ene\",\n        \"Feb\",\n        \"Mar\",\n        \"Abr\",\n        \"Mayo\",\n        \"Jun\",\n        \"Jul\",\n        \"Ago\",\n        \"Sep\",\n        \"Oct\",\n        \"Nov\",\n        \"Dic\"\n    ]\n}",
+            "pagination_config": {
+                "has-pagination": false,
+                "pagination-header-design": "off",
+                "pagination-header": "nav",
+                "last-steps": "Finalizar",
+                "last-previous": "Anterior",
+                "pagination-labels": "default",
+                "has-paypal": false,
+                "progress-bar-type": "progress",
+                "page-number-text": "P\u00e1gina %1$s de %2$s"
+            },
+            "paypal_config": {
+                "live_id": "",
+                "sandbox_id": "",
+                "redirect_url": "\/es",
+                "form_id": 2706
+            },
+            "forminator_fields": [
+                "address",
+                "calculation",
+                "captcha",
+                "consent",
+                "currency",
+                "custom",
+                "date",
+                "email",
+                "gdprcheckbox",
+                "group",
+                "hidden",
+                "html",
+                "checkbox",
+                "name",
+                "number",
+                "page-break",
+                "password",
+                "paypal",
+                "phone",
+                "postdata",
+                "radio",
+                "rating",
+                "section",
+                "select",
+                "slider",
+                "stripe-ocs",
+                "stripe",
+                "text",
+                "textarea",
+                "time",
+                "upload",
+                "url"
+            ],
+            "general_messages": {
+                "calculation_error": "Ha fallado el c\u00e1lculo del campo.",
+                "payment_require_ssl_error": "Es obligatorio el SSL para enviar este formulario, verifica su URL.",
+                "payment_require_amount_error": "El monto en PayPal debe ser superior a 0.",
+                "form_has_error": "Por favor, corrige los errores antes del env\u00edo."
+            },
+            "payment_require_ssl": false,
+            "has_loader": true,
+            "loader_label": "Submitting...",
+            "calcs_memoize_time": 300,
+            "is_reset_enabled": true,
+            "has_stripe": false,
+            "has_paypal": false,
+            "submit_button_class": ""
+        }
+    }
+}

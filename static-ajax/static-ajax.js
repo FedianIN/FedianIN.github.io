@@ -1,7 +1,7 @@
 /*
  * GitHub Pages has no WordPress backend, so admin-ajax.php and trp-ajax.php
  * are unavailable. Answer the requests the front end needs from saved files:
- *  - Forminator form markup: /static-ajax/form-<id>.json
+ *  - Forminator form markup: /static-ajax/form-<id>[-<lang>].json
  *  - TranslatePress translations of dynamic strings: /static-ajax/trp-<lang>.json
  */
 (function ($) {
@@ -32,7 +32,10 @@
 		var p = params(typeof options.data === 'string' ? options.data : '');
 
 		if (p.action === 'forminator_load_form' && /^\d+$/.test(p.id || '')) {
-			options.url = '/static-ajax/form-' + p.id + '.json';
+			// The backend renders forms already translated for non-default languages.
+			var trp = window.trp_data || {};
+			var lang = trp.trp_current_language && trp.trp_current_language !== trp.trp_original_language ? '-' + trp.trp_current_language : '';
+			options.url = '/static-ajax/form-' + p.id + lang + '.json';
 			options.type = 'GET';
 			options.data = '';
 			options.dataType = 'json';
