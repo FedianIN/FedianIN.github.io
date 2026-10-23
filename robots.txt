@@ -1,6 +1,4 @@
+# Copy of pro-clean.es, kept out of search results.
+# Crawling stays allowed so search engines can read the noindex tag on each page.
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://pro-clean.es/sitemap.xml
-Sitemap: https://pro-clean.es/sitemap.rss
+Allow: /
